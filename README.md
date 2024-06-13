@@ -1,7 +1,26 @@
 # MLCC 사이즈 측정 프로그램
-***
 
-MLCC
+반도체 부품인 MLCC는 그 크기가 매우 작기에 정밀함을 요구합니다.
+이러한 MLCC에 대해서 적정한 크기의 양품을 선별하고자
+영상 처리 기법을 통해 특정 부분의 사이즈를 측정하는 프로그램을 개발했습니다.
+
+
+# 🗓️ 프로젝트 기간
+* 2021.03 ~ 2021.06
+
+
+# 팀원
+* 고동현
+* 김지영
+* 류인수
+* 최희웅
+
+
+# 기술 스택
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/opencv-#5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+
 
 응용 프로그램 마법사에서 이 MainProgram 응용 프로그램을 만들었습니다. 이 응용 프로그램은 MFC의 기본 사용법을 보여 줄 뿐만 아니라 응용 프로그램을 작성하기 위한 기본 구조를 제공합니다.
 
