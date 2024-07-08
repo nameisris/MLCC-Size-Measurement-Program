@@ -1,9 +1,9 @@
-# MLCC 사이즈 측정 프로그램
+## MLCC 사이즈 측정 프로그램
 <img width="70%" src="https://github.com/nameisris/MLCC-Size-Measurement-Program/assets/68523711/c474f829-6d88-4dcf-b6fc-26bfd04d6a8c">
 <br>
 <br>
 
-# 💻 프로젝트 소개
+## 💻 프로젝트 소개
 <img width="40%" src="https://github.com/nameisris/MLCC-Size-Measurement-Program/assets/68523711/26f393ce-235a-418d-b799-fea43e4f046b">
 <br>
 <br>
@@ -13,12 +13,12 @@
 <br>
 <br>
 
-# 🗓️ 개발 기간
+## 🗓️ 개발 기간
 * 2021.03 ~ 2021.06
 <br>
 <br>
 
-# 👥 팀원 구성
+## 👥 팀원 구성
 * 고동현 (팀장)
 * 김지영
 * 류인수
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-# ⚙ 개발 환경
+## ⚙ 개발 환경
 * OS : Window 10
 * Front : MFC
 * Back : <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-# 주요 기능
+## 주요 기능
 <img width="70%" src="https://github.com/nameisris/MLCC-Size-Measurement-Program/assets/68523711/9402efd7-3d20-4504-b76d-fb2f37536229">
 <br>
 <br>
